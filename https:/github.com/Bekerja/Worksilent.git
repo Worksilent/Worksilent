@@ -1,0 +1,7 @@
+echo "# Worksilent" >> README.md 
+git init 
+git add README.md 
+git commit -m "first 
+https://github.com/Worksilent/Worksilent.git " git branch -M main 
+git remote add origin https://github.com/Worksilent/Worksilent.git
+ git push -u origin utama
